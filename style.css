@@ -8,6 +8,7 @@ div{
     border-radius: 30px;
     text-align: center;
     background: linear-gradient(rgb(230, 230, 103),rgb(105, 232, 105));
+    margin: 5% 33%;
 }
 
 button{
